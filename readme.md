@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Budget
+
+**Embryo Budget** is Embryo-Zero's fork of [firefly-iii](https://github.com/firefly-iii/firefly-iii), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <p align="center">
   <a href="https://firefly-iii.org/">
     <img src="https://raw.githubusercontent.com/firefly-iii/firefly-iii/develop/.github/assets/img/logo-small.png" alt="Firefly III" width="120" height="178">
